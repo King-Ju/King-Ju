@@ -14,8 +14,8 @@
 </p>
 
 <a href="https://github.com/King-Ju">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=King-Ju&theme=merko&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Ju&theme=merko&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=King-Ju&theme=merko&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Ju&theme=merko&layout=compact" />
 </a>
 
 <!---
