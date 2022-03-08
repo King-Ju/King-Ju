@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @King-Ju
+- 👋 Hi, I’m Junior
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational&theme=prussian&animation=grow_out_in&layout=default&font=default)
 
