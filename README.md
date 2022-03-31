@@ -1,11 +1,13 @@
 <h1 align="center">~⋆* :pray: 𝓗𝓲, 𝓘’𝓶 𝓙𝓾𝓷𝓲𝓸𝓻 :pray: *⋆~</h1>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/69570230/157310680-2f99772d-97a5-456e-83db-bae08baef579.gif">
+  <img src='https://user-images.githubusercontent.com/69570230/161101183-f368c8e6-aa6d-43d9-8c99-0df6edb2b790.png' >
+  
 </div>
+
 <br/>
-<p align="center">
+<!-- <p align="center">
  ✨ 𝑩𝒆 𝒉𝒆𝒓𝒐𝒆𝒔 𝒐𝒇 𝒚𝒐𝒖𝒓 𝒐𝒘𝒏 𝒔𝒕𝒐𝒓𝒊𝒆𝒔 ✨<br>
-</p>
+</p> -->
 
 <h2>𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 :question:</h2>
 
